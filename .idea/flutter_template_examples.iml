@@ -1,0 +1,99 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<module type="JAVA_MODULE" version="4">
+  <component name="NewModuleRootManager" inherit-compiler-output="true">
+    <exclude-output />
+    <content url="file://$MODULE_DIR$">
+      <excludeFolder url="file://$MODULE_DIR$/evaluations/list_detail_mvc_vn_prettier/.dart_tool" />
+      <excludeFolder url="file://$MODULE_DIR$/evaluations/list_detail_mvc_vn_prettier/.pub" />
+      <excludeFolder url="file://$MODULE_DIR$/evaluations/list_detail_mvc_vn_prettier/build" />
+      <excludeFolder url="file://$MODULE_DIR$/evaluations/list_detail_mvc_vn_two_features/build" />
+      <excludeFolder url="file://$MODULE_DIR$/evaluations/list_detail_mvc_vn_two_features/.dart_tool" />
+      <excludeFolder url="file://$MODULE_DIR$/evaluations/list_detail_mvc_vn_two_features/.pub" />
+      <excludeFolder url="file://$MODULE_DIR$/evaluations/list_detail_mvc_state_notifier/.pub" />
+      <excludeFolder url="file://$MODULE_DIR$/evaluations/list_detail_mvc_state_notifier/.dart_tool" />
+      <excludeFolder url="file://$MODULE_DIR$/evaluations/list_detail_mvc_state_notifier/build" />
+      <excludeFolder url="file://$MODULE_DIR$/proposals/proposal_1/.dart_tool" />
+      <excludeFolder url="file://$MODULE_DIR$/proposals/proposal_1/.pub" />
+      <excludeFolder url="file://$MODULE_DIR$/proposals/proposal_1/build" />
+      <excludeFolder url="file://$MODULE_DIR$/evaluations/list_detail_mvc_cubit/build" />
+      <excludeFolder url="file://$MODULE_DIR$/evaluations/list_detail_mvc_cubit/.pub" />
+      <excludeFolder url="file://$MODULE_DIR$/evaluations/list_detail_mvc_cubit/.dart_tool" />
+      <excludeFolder url="file://$MODULE_DIR$/evaluations/list_detail_mvc_value_notifier/.pub" />
+      <excludeFolder url="file://$MODULE_DIR$/evaluations/list_detail_mvc_value_notifier/build" />
+      <excludeFolder url="file://$MODULE_DIR$/evaluations/list_detail_mvc_value_notifier/.dart_tool" />
+      <excludeFolder url="file://$MODULE_DIR$/evaluations/login_mvc/.dart_tool" />
+      <excludeFolder url="file://$MODULE_DIR$/evaluations/login_mvc/.pub" />
+      <excludeFolder url="file://$MODULE_DIR$/evaluations/login_mvc/build" />
+      <excludeFolder url="file://$MODULE_DIR$/evaluations/list_detail_mvc_dummy/build" />
+      <excludeFolder url="file://$MODULE_DIR$/evaluations/list_detail_mvc_dummy/.pub" />
+      <excludeFolder url="file://$MODULE_DIR$/evaluations/list_detail_mvc_dummy/.dart_tool" />
+      <excludeFolder url="file://$MODULE_DIR$/evaluations/journal_clean_architecture/build" />
+      <excludeFolder url="file://$MODULE_DIR$/evaluations/journal_clean_architecture/.dart_tool" />
+      <excludeFolder url="file://$MODULE_DIR$/evaluations/journal_clean_architecture/.pub" />
+      <excludeFolder url="file://$MODULE_DIR$/samples/filesystem_settings/.dart_tool" />
+      <excludeFolder url="file://$MODULE_DIR$/samples/filesystem_settings/build" />
+      <excludeFolder url="file://$MODULE_DIR$/samples/filesystem_settings/.pub" />
+      <excludeFolder url="file://$MODULE_DIR$/evaluations/list_detail_mvc_vn_responsive_dummies/.pub" />
+      <excludeFolder url="file://$MODULE_DIR$/evaluations/list_detail_mvc_vn_responsive_dummies/.dart_tool" />
+      <excludeFolder url="file://$MODULE_DIR$/evaluations/list_detail_mvc_vn_responsive_dummies/build" />
+      <excludeFolder url="file://$MODULE_DIR$/evaluations/responsive/build" />
+      <excludeFolder url="file://$MODULE_DIR$/evaluations/responsive/.pub" />
+      <excludeFolder url="file://$MODULE_DIR$/evaluations/responsive/.dart_tool" />
+      <excludeFolder url="file://$MODULE_DIR$/evaluations/list_detail_mvc_vn_two_features_boilerplate/.dart_tool" />
+      <excludeFolder url="file://$MODULE_DIR$/evaluations/list_detail_mvc_vn_two_features_boilerplate/.pub" />
+      <excludeFolder url="file://$MODULE_DIR$/evaluations/list_detail_mvc_vn_two_features_boilerplate/build" />
+      <excludeFolder url="file://$MODULE_DIR$/evaluations/journal_mvc/build" />
+      <excludeFolder url="file://$MODULE_DIR$/evaluations/journal_mvc/.dart_tool" />
+      <excludeFolder url="file://$MODULE_DIR$/evaluations/journal_mvc/.pub" />
+      <excludeFolder url="file://$MODULE_DIR$/evaluations/hacker_news_vanilla/.pub" />
+      <excludeFolder url="file://$MODULE_DIR$/evaluations/hacker_news_vanilla/.dart_tool" />
+      <excludeFolder url="file://$MODULE_DIR$/evaluations/hacker_news_vanilla/build" />
+      <excludeFolder url="file://$MODULE_DIR$/evaluations/tiny_journal_mvc/.pub" />
+      <excludeFolder url="file://$MODULE_DIR$/evaluations/tiny_journal_mvc/build" />
+      <excludeFolder url="file://$MODULE_DIR$/evaluations/tiny_journal_mvc/.dart_tool" />
+      <excludeFolder url="file://$MODULE_DIR$/samples/shared_prefs_settings/.pub" />
+      <excludeFolder url="file://$MODULE_DIR$/samples/shared_prefs_settings/.dart_tool" />
+      <excludeFolder url="file://$MODULE_DIR$/samples/shared_prefs_settings/build" />
+      <excludeFolder url="file://$MODULE_DIR$/evaluations/list_detail_with_some_boilerplate/build" />
+      <excludeFolder url="file://$MODULE_DIR$/evaluations/list_detail_with_some_boilerplate/.pub" />
+      <excludeFolder url="file://$MODULE_DIR$/evaluations/list_detail_with_some_boilerplate/.dart_tool" />
+      <excludeFolder url="file://$MODULE_DIR$/evaluations/list_detail_with_data_layer/.dart_tool" />
+      <excludeFolder url="file://$MODULE_DIR$/evaluations/list_detail_with_data_layer/build" />
+      <excludeFolder url="file://$MODULE_DIR$/evaluations/list_detail_with_data_layer/.pub" />
+      <excludeFolder url="file://$MODULE_DIR$/evaluations/list_detail_mvc_provider/.dart_tool" />
+      <excludeFolder url="file://$MODULE_DIR$/evaluations/list_detail_mvc_provider/.pub" />
+      <excludeFolder url="file://$MODULE_DIR$/evaluations/list_detail_mvc_provider/build" />
+      <excludeFolder url="file://$MODULE_DIR$/evaluations/list_detail_mvc_riverpod/build" />
+      <excludeFolder url="file://$MODULE_DIR$/evaluations/list_detail_mvc_riverpod/.pub" />
+      <excludeFolder url="file://$MODULE_DIR$/evaluations/list_detail_mvc_riverpod/.dart_tool" />
+      <excludeFolder url="file://$MODULE_DIR$/evaluations/list_detail_mvc_vn_two_features_boilerplate_impl/build" />
+      <excludeFolder url="file://$MODULE_DIR$/evaluations/list_detail_mvc_vn_two_features_boilerplate_impl/.dart_tool" />
+      <excludeFolder url="file://$MODULE_DIR$/evaluations/list_detail_mvc_vn_two_features_boilerplate_impl/.pub" />
+      <excludeFolder url="file://$MODULE_DIR$/evaluations/list_detail_breadcrumbs/.pub" />
+      <excludeFolder url="file://$MODULE_DIR$/evaluations/list_detail_breadcrumbs/.dart_tool" />
+      <excludeFolder url="file://$MODULE_DIR$/evaluations/list_detail_breadcrumbs/build" />
+      <excludeFolder url="file://$MODULE_DIR$/evaluations/list_detail_mvc_getx/.dart_tool" />
+      <excludeFolder url="file://$MODULE_DIR$/evaluations/list_detail_mvc_getx/build" />
+      <excludeFolder url="file://$MODULE_DIR$/evaluations/list_detail_mvc_getx/.pub" />
+      <excludeFolder url="file://$MODULE_DIR$/evaluations/list_detail_mvc_vn_two_features_boilerplate_provider/build" />
+      <excludeFolder url="file://$MODULE_DIR$/evaluations/list_detail_mvc_vn_two_features_boilerplate_provider/.dart_tool" />
+      <excludeFolder url="file://$MODULE_DIR$/evaluations/list_detail_mvc_vn_two_features_boilerplate_provider/.pub" />
+      <excludeFolder url="file://$MODULE_DIR$/evaluations/list_detail_mvc_vn_two_features_boilerplate_getit/.pub" />
+      <excludeFolder url="file://$MODULE_DIR$/evaluations/list_detail_mvc_vn_two_features_boilerplate_getit/build" />
+      <excludeFolder url="file://$MODULE_DIR$/evaluations/list_detail_mvc_vn_two_features_boilerplate_getit/.dart_tool" />
+      <excludeFolder url="file://$MODULE_DIR$/evaluations/list_detail_mvc_mobx/build" />
+      <excludeFolder url="file://$MODULE_DIR$/evaluations/list_detail_mvc_mobx/.dart_tool" />
+      <excludeFolder url="file://$MODULE_DIR$/evaluations/list_detail_mvc_mobx/.pub" />
+      <excludeFolder url="file://$MODULE_DIR$/evaluations/list_detail_mvc/.pub" />
+      <excludeFolder url="file://$MODULE_DIR$/evaluations/list_detail_mvc/.dart_tool" />
+      <excludeFolder url="file://$MODULE_DIR$/evaluations/list_detail_mvc/build" />
+      <excludeFolder url="file://$MODULE_DIR$/samples/template_tests/.dart_tool" />
+      <excludeFolder url="file://$MODULE_DIR$/samples/template_tests/.pub" />
+      <excludeFolder url="file://$MODULE_DIR$/samples/template_tests/build" />
+    </content>
+    <orderEntry type="inheritedJdk" />
+    <orderEntry type="sourceFolder" forTests="false" />
+    <orderEntry type="library" name="Dart SDK" level="project" />
+    <orderEntry type="library" name="Dart Packages" level="project" />
+  </component>
+</module>
